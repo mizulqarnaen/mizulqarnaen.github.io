@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportofolio=self.webpackChunkportofolio||[]).push([[519],{1519:function(e,n,a){a.r(n),a.d(n,{default:function(){return s}});var i=JSON.parse('[{"id":1,"bahasa":"Indonesia","level":"Native"},{"id":2,"bahasa":"English","level":"Intermediate"}]'),r=a(184),s=function(){return(0,r.jsx)(r.Fragment,{children:i.map((function(e){return(0,r.jsxs)("div",{className:"resume-item",children:[(0,r.jsx)("h4",{children:e.bahasa}),(0,r.jsx)("h5",{children:e.level})]},e.id)}))})}}}]);
+//# sourceMappingURL=519.c50b4c07.chunk.js.map
